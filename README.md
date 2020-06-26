@@ -6,4 +6,4 @@ Last assignment involving more complex data visualization in R. Some of these in
 
 ## Final Project 
 
-involved visualizing medical data sourced from healthdata.gov (https://healthdata.gov/dataset/nchs-potentially-excess-deaths-five-leading-causes-death). I was responsible for creating the final, comprehensive explanatory visualzation which was a vertically stacking of double line graphs to compare Percent Of Excess Deaths to Death Rate for each cause of death.
+Involved visualizing medical data sourced from healthdata.gov (https://healthdata.gov/dataset/nchs-potentially-excess-deaths-five-leading-causes-death). I was responsible for creating the final, comprehensive explanatory visualzation which was a vertically stacking of double line graphs to compare Percent Of Excess Deaths to Death Rate for each cause of death.
